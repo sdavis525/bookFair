@@ -1,0 +1,24 @@
+{
+  "name": "bookfair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdavis525/bookFair.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdavis525/bookFair/issues"
+  },
+  "homepage": "https://github.com/sdavis525/bookFair#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
